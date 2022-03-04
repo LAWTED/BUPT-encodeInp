@@ -8,6 +8,8 @@
 ![image](https://user-images.githubusercontent.com/56634309/156722863-8f60f9b1-8c9f-41ce-9f72-03a22946812d.png)
 
 # step2 复制下面的代码, 粘贴到控制台, 然后按`Enter`, 再次登入
+![image](https://user-images.githubusercontent.com/56634309/156725782-b92dca8d-cbf2-46a1-86cd-6a72b9f3a66d.png)
+
 ```js
 function find(p, a, c, k, e, d) {
   e = function (c) {
