@@ -1,5 +1,6 @@
 # BUPT-encodeInp
-solution of encodeInp
+> A Solution of encodeInp undefined
+
 ![image](https://user-images.githubusercontent.com/56634309/156722741-cc8e1590-7378-4232-8e31-50f2f49a53ab.png)
 
 # step 1 右键 `检查`(win) / `审查元素`(mac) 打开控制台
