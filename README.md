@@ -4,10 +4,10 @@
 ![image](https://user-images.githubusercontent.com/56634309/156723263-48d072f0-95d8-45ad-b947-9e5c941f030d.png)
 
 
-# step 1 右键 `检查`(win) / `审查元素`(mac) 打开控制台
+# Step 1 右键 `检查`(win) / `审查元素`(mac) 打开控制台
 ![image](https://user-images.githubusercontent.com/56634309/156722863-8f60f9b1-8c9f-41ce-9f72-03a22946812d.png)
 
-# step2 复制下面的代码, 粘贴到控制台, 然后按`Enter`, 再次登入
+# Step2 复制下面的代码, 粘贴到控制台, 然后按`Enter`, 再次登入
 ![image](https://user-images.githubusercontent.com/56634309/156725782-b92dca8d-cbf2-46a1-86cd-6a72b9f3a66d.png)
 
 ```js
